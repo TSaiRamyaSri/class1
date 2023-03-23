@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class PagesController < ApplicationController
   def index
   end
@@ -8,3 +9,9 @@ class PagesController < ApplicationController
   def about
   end
 end
+=======
+ class PagesController < ApplicationController
+     def index
+     end
+ end
+>>>>>>> refs/remotes/origin/main
